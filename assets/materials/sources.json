@@ -1,0 +1,65 @@
+[
+  {
+    "file": "cobblestone_floor_03_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_floor_03/cobblestone_floor_03_diff_1k.jpg",
+    "sha256": "16d707beaa30a62c2d7338d00bdb393213a25ec55d96322c228195a69d2fb0ea",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "cobblestone_floor_03_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_floor_03/cobblestone_floor_03_nor_gl_1k.jpg",
+    "sha256": "87543879c856eee5a31f1055d329dd6151785b9a1e5840b840b18a7d036fb02d",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "cobblestone_floor_03_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_floor_03/cobblestone_floor_03_rough_1k.jpg",
+    "sha256": "e48bbcc83e119a4a334a0adc4aeb3f54d242e7d8f5d7db9f7105b8bdfb640e10",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "grey_plaster_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster/grey_plaster_diff_1k.jpg",
+    "sha256": "dcf34c5f3801cc43189f0edae3c430b602c827956e9d6ce4b89a85e53e952da9",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "grey_plaster_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster/grey_plaster_nor_gl_1k.jpg",
+    "sha256": "85fe18209cb354b582003892898ee0cd6fe6b853644e01983718fc011140c0c2",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "grey_plaster_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster/grey_plaster_rough_1k.jpg",
+    "sha256": "67566b1b5ee25502596916303c246b08d47725b8a697283cfdc1494e6f659aa2",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "sandstone_blocks_05_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_blocks_05/sandstone_blocks_05_diff_1k.jpg",
+    "sha256": "d17c322d9e793ab9fc198948a34f2632595560471ff8714f2b0e052bc75c9ee3",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "sandstone_blocks_05_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_blocks_05/sandstone_blocks_05_nor_gl_1k.jpg",
+    "sha256": "ab42361855310d8de9b11470c6b21e512c9926decd5548dc9e9d72bd6cc06f3e",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  },
+  {
+    "file": "sandstone_blocks_05_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_blocks_05/sandstone_blocks_05_rough_1k.jpg",
+    "sha256": "4f4d27fc3186e18db5423ddbd41902cd5c5bd5642d4cdea89610c1b5d1f9821d",
+    "license": "CC0-1.0",
+    "author": "Rob Tuytel"
+  }
+]

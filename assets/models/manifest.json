@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "models": {
+    "officer-prinz": {
+      "url": "assets/models/officer-prinz.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.78,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "f9c9d2331775480a78fa90bbe7543be36f750cbfa7e693f135ee7951ef61c96c"
+    },
+    "officer-kim": {
+      "url": "assets/models/officer-kim.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.805,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "1ef4a7217bbf4810723bbee6122f8c0acb6c6296d65722dd8c78cabf91a374e3"
+    },
+    "officer-arian": {
+      "url": "assets/models/officer-arian.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.83,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "c8a002f1b5d6bd1080420ba0a4f092b856124ebbf1d2d8196a05337a57561208"
+    },
+    "officer-felix": {
+      "url": "assets/models/officer-felix.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.855,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "156bddfd672ad098f0c4feb4bb73ca1ccb80b139ba83279e8240df136c5a555b"
+    },
+    "officer-eliane": {
+      "url": "assets/models/officer-eliane.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.78,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "018d39392e9c8b727dc8c3d1f2739ac9344ff798e7c767bfd675dd3bd4d60ca2"
+    },
+    "officer-fabienne": {
+      "url": "assets/models/officer-fabienne.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.805,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "92f46b4ee4465949f521c3dc03186db8e1f1fda561d180e1fb2bc23d60e50601"
+    },
+    "officer-patrick": {
+      "url": "assets/models/officer-patrick.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.83,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "dc8be8782f67dfc2a5ae4df5a09a3acb9ee60f2a065b0e5420b343dcbd76717f"
+    },
+    "officer-fabi": {
+      "url": "assets/models/officer-fabi.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.855,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "7e884086b3b890bd57c62c93d960c1c8b49dde8868a017595f3c10e713033e0d"
+    },
+    "officer-robert": {
+      "url": "assets/models/officer-robert.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.78,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "2d6af4c7390e648d0a4a0066b36071f767741e01ea4cb8def6b6ca1e48888f15"
+    },
+    "officer-gordon": {
+      "url": "assets/models/officer-gordon.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.805,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "0890bb7cc2a8161ae314604b6244750c054be9aaf62643497cc506c3220c8e0b"
+    },
+    "officer-lorin": {
+      "url": "assets/models/officer-lorin.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.83,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "9ae535d08fd451b5a76fb0deecca5e535d61ca9ff413c31cbb248daf08234567"
+    },
+    "officer-martin": {
+      "url": "assets/models/officer-martin.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.855,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "cadeab2b49cf68414fdad5d74958ddce944e03656d82ac778ea6d04dcc1e7af2"
+    },
+    "officer-emre": {
+      "url": "assets/models/officer-emre.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.78,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "a085925c898692bf02a9d30f19bd502b4de44949f136c044705b040ba2a0154b"
+    },
+    "civilian": {
+      "url": "assets/models/civilian.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.78,
+      "clips": {
+        "Idle": "Idle",
+        "Walk": "Walk",
+        "Run": "Run",
+        "Interact": "Interact",
+        "Sit": "Sit"
+      },
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "3372dbe5d46a289a69ca4ba9e8a3d78338eea45a57e08d5d7a360691d632b779"
+    },
+    "patrol-a6": {
+      "url": "assets/models/patrol-a6.glb",
+      "author": "C-Schicht project \u00b7 original procedural mesh design",
+      "source": "stories/tools/generate-models.mjs",
+      "license": "Project-original; no third-party model content",
+      "redistributionApproved": true,
+      "qualityApproved": true,
+      "qualityTier": "original stylized first playable revision; not scanned or photorealistic",
+      "height": 1.8,
+      "clips": {},
+      "reviewScope": "Playable original stylized revision; family appearance reviewed in browser, not final realism target",
+      "sha256": "8dcf5fc4ba877a517ee6fc06aeed91ef71eee095da28235a72a4bacf8d82c162"
+    }
+  },
+  "missing": {}
+}
